@@ -128,14 +128,14 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 #  GitHub Statistics
 
-<h2 align="center"> GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chamodi002&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chamodi002&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi002&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi002&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -151,10 +151,10 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 #  GitHub Trophies
 
-<h2 align="center"> GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chamodi002&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=chamodi002&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
