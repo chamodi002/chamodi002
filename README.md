@@ -1,127 +1,271 @@
-👋 Hi, I'm Chamodi Janendra Rajapaksha
+#  Hi, I'm Chamodi Janendra Rajapaksha
 
-🚀 Software Engineering Graduate | Full-Stack & Mobile Developer | Java | Python | Android | Web
+##  Software Engineer | Full-Stack Developer | Mobile Application Developer
 
----
+I am a Software Engineering graduate with a strong foundation in **full-stack web development, mobile application development, database management, and software engineering principles**.
 
-💡 About Me
+I specialize in developing scalable, user-focused applications using modern technologies such as **Java, Python, JavaScript, TypeScript, Next.js, FastAPI, MongoDB, MySQL, Firebase, and Docker**.
 
-Motivated and detail-oriented Software Engineering graduate with First Class Honours, specializing in Java, web, and mobile application development.  
+Passionate about transforming real-world problems into innovative software solutions through clean code, efficient architecture, and modern development practices. I have experience building academic and personal projects including management systems, mobile applications, AI-based applications, and full-stack platforms.
 
-I am passionate about building **user-focused, scalable, and real-world software solutions** through academic and personal projects. I have strong experience in full-stack development, Android applications, and database-driven systems, with a growing interest in **AI and data-driven technologies**.
-
-I am eager to contribute to innovative development teams while continuously improving my technical expertise.
+Currently interested in expanding my knowledge in **Artificial Intelligence, Data Science, Cloud Computing, and advanced software engineering practices**.
 
 ---
 
- 🛠️ Technical Skills
+#  Contact Me
 
-**💻 Programming Languages:**  
-Java, Python, C++, C#
+ Kurunegala, Sri Lanka
 
-**🌐 Web Development:**  
-HTML, CSS, Bootstrap
+ chamodirajapaksha178@icloud.com
 
-**📱 Mobile Development:**  
-Android Development (Java)
+ 076 092 9036
 
-**🗄️ Databases:**  
-MySQL, Firebase
+ LinkedIn  
+www.linkedin.com/in/chamodi-rajapaksha75a925333
 
-**⚙️ Tools & Technologies:**  
-Git, GitHub, Android Studio, MySQL Workbench
+ GitHub  
+https://github.com/chamodi002
 
-**📚 Core Concepts:**  
-Object-Oriented Programming (OOP), Database Design, UI/UX Principles
 
 ---
 
-🚀 Featured Projects
+#  Technical Skills
 
-🚦 LankaDrivePrep – Driver Education Platform (Final Year Project)
-- Java, HTML, CSS, Bootstrap, MySQL, Python  
-- AI-based traffic sign recognition system  
-- Bilingual learning platform with gamification features  
-- Improved accessibility and modernized driver education in Sri Lanka  
+##  Programming Languages
 
----
+- Java
+- Python
+- C++
+- C#
+- JavaScript
+- TypeScript
 
-📱 GovConnect – Vehicle Fine Payment App
-- Java (Android), Firebase  
-- Secure mobile application with fingerprint authentication  
-- Online vehicle fine payment & vehicle data access system  
-- Reduced dependency on manual processes  
+##  Web Development
 
----
+- HTML5
+- CSS3
+- Bootstrap
+- React
+- Next.js
+- Tailwind CSS
+- FastAPI
+- REST API Development
 
-🚕 Cab Booking System Website
-- Java, HTML, CSS, Bootstrap, MySQL  
-- Automated taxi booking and billing system  
-- Database-driven booking management system  
-- Improved transportation service efficiency  
+##  Mobile Development
 
----
+- Android Development (Java)
+- Android Studio
+- Firebase Integration
 
-🍽️ Cafe Restaurant Website
-- Java, HTML, CSS, Bootstrap, MySQL  
-- Online reservation and ordering system  
-- Enhanced customer interaction and service experience  
-- Responsive and user-friendly UI  
+##  Databases
 
----
+- MySQL
+- MongoDB
+- Firebase Firestore
+- Database Design
+- ER Diagram Design
 
-🐶 Dog Nutrition Mobile Application
-- Java, Android Studio  
-- Mobile app for dog nutrition guidance  
-- Easy-to-use interface for food browsing and education  
+##  Tools & Technologies
 
----
+- Git & GitHub
+- Docker
+- Docker Compose
+- VS Code
+- MySQL Workbench
+- Postman
+- Linux / WSL Environment
 
-🎯 Soft Skills
+##  Software Engineering Concepts
 
-- Team Collaboration  
-- Leadership & Initiative  
-- Problem-Solving & Analytical Thinking  
-- Creativity & Innovation  
-- Time Management & Organization  
-- Effective Communication  
+- Object-Oriented Programming (OOP)
+- Database Design
+- Software Architecture
+- MVC Pattern
+- API Integration
+- Authentication & Authorization
+- JWT Security
+- Agile Development
+- UI/UX Principles
 
----
-
-🎓 Education
-
-**🎓 BSc (Hons) Software Engineering (First Class)**  
-Cardiff Metropolitan University (via ICBT)  
-Nov 2024 – Sep 2025  
-
-**🎓 Higher Diploma in Computing & Software Engineering (Merit Pass)**  
-Cardiff Metropolitan University (via ICBT)  
-Feb 2023 – Sep 2024  
-
-**🏫 Maliyadewa Balika Vidyalaya, Kurunegala**  
-GCE Advanced Level (Commerce Stream) | GCE Ordinary Level  
 
 ---
 
-🏆 Achievements & Activities
+#  Featured Projects
 
-- Member – Sri Lanka Schools Sport Aerobics Association (2014–2022)  
-- Colours Award – Aerobic Gymnastics (2015, 2016, 2017, 2022)  
-- Bronze Medalist – All-Island Aerobic Gym for Life Challenge (2015)  
-- 1st Runner-Up – Sri Lanka Schools Aerobic Gym Competition (2016)  
-- Provincial Level Athlete – Aerobic Gymnastics (2022)  
 
----
+##  LankaDrivePrep – AI-Based Driver Education Platform
+### Final Year Project
 
-📫 Contact Me
+**Technologies:** Java, Python, HTML, CSS, Bootstrap, MySQL
 
-📍 Kurunegala, Sri Lanka  
-📧 chamodirajapaksha178@icloud.com  
-🔗 LinkedIn: www.linkedin.com/in/chamodi-rajapaksha-75a925333  
-💻 GitHub: https://github.com/chamodi002  
+- Developed a digital driver education platform to modernize learning methods in Sri Lanka.
+- Integrated bilingual educational content and gamification features.
+- Implemented machine learning-based traffic sign recognition.
+- Improved accessibility and engagement compared to traditional driver education methods.
+
 
 ---
 
-⚡ Motto
+##  Grand Hotel – Hotel Management & Reservation System
 
-> “Building practical solutions through clean code, creativity, and continuous learning.”
+**Technologies:** Next.js, FastAPI, MongoDB Atlas, Tailwind CSS, Docker
+
+- Developed a full-stack hotel reservation and management platform.
+- Implemented room management, booking workflows, guest management, and admin dashboard features.
+- Designed RESTful APIs using FastAPI.
+- Built a scalable database structure using MongoDB Atlas.
+- Applied modern frontend architecture with Next.js.
+
+
+---
+
+##  LiveWave – Artist Event & Ticket Booking Platform
+
+**Technologies:** Next.js, FastAPI, MongoDB Atlas, JWT Authentication
+
+- Developed an online event and ticket booking platform.
+- Implemented event management, booking workflow, and user authentication.
+- Designed secure backend APIs with JWT-based authentication.
+- Created database structures for events, artists, bookings, and users.
+
+
+---
+
+##  MediCare – Smart Pharmacy Management System
+
+**Technologies:** Next.js, TypeScript, FastAPI, MongoDB, Docker
+
+- Developed a pharmacy management solution for medicine inventory and customer services.
+- Implemented medicine management, prescription handling, and order tracking features.
+- Designed an admin dashboard for managing pharmacy operations.
+- Created scalable backend architecture using FastAPI.
+
+
+---
+
+##  MyAIChatbot – AI Powered Chatbot Application
+
+**Technologies:** Python, Flask, HTML, CSS, JavaScript
+
+- Developed an AI-powered chatbot web application using Python Flask.
+- Designed an interactive user interface for real-time conversations.
+- Integrated frontend and backend components for message processing.
+
+
+---
+
+##  GovConnect – Vehicle Fine Payment Mobile Application
+
+**Technologies:** Java Android, Firebase
+
+- Developed a mobile application for online vehicle fine payments and vehicle information access.
+- Integrated fingerprint authentication for secure user access.
+- Reduced dependency on manual payment processes.
+
+
+---
+
+##  Cab Booking System Website
+
+**Technologies:** Java, HTML, CSS, Bootstrap, MySQL
+
+- Developed a database-driven taxi booking and billing system.
+- Automated reservation management and customer handling.
+- Improved transportation service efficiency through digital workflows.
+
+
+---
+
+##  Cafe Restaurant Management Website
+
+**Technologies:** Java, HTML, CSS, Bootstrap, MySQL
+
+- Created a responsive restaurant website with online reservation and ordering features.
+- Improved customer interaction through digital services.
+- Designed a user-friendly interface for better customer experience.
+
+
+---
+
+##  Dog Nutrition Mobile Application
+
+**Technologies:** Java, Android Studio
+
+- Developed a mobile application providing dog nutrition guidance.
+- Designed an intuitive interface for easy navigation.
+- Included educational content and food information features.
+
+
+---
+
+#  Education
+
+##  BSc (Hons) Software Engineering (First Class)
+
+**Cardiff Metropolitan University (via ICBT Campus)**  
+Nov 2024 – Sep 2025
+
+
+##  Higher Diploma in Computing & Software Engineering (Merit Pass)
+
+**Cardiff Metropolitan University (via ICBT Campus)**  
+Feb 2023 – Sep 2024
+
+
+##  Maliyadeva Balika Vidyalaya, Kurunegala
+
+2009 – 2022
+
+- GCE Advanced Level (Commerce Stream)
+- GCE Ordinary Level
+
+
+---
+
+#  Languages
+
+- English (Fluent)
+- Sinhala (Native)
+
+
+---
+
+#  Soft Skills
+
+- Team Collaboration
+- Effective Communication
+- Leadership & Initiative
+- Problem Solving
+- Analytical Thinking
+- Creativity & Innovation
+- Time Management
+
+
+---
+
+#  Achievements & Activities
+
+- Member – Sri Lanka Schools Sport Aerobics Association (2014–2022)
+- Colours Award – Aerobic Gymnastics (2015, 2016, 2017, 2022)
+- Bronze Medalist – All-Island Aerobic Gym for Life Challenge (2015)
+- 1st Runner-Up – Sri Lanka Schools Aerobic Gym Competition (2016)
+- Provincial Level Athlete – Aerobic Gymnastics (2022)
+
+
+---
+
+#  Currently Exploring
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Cloud Computing
+- DevOps Practices
+- Advanced Backend Development
+
+
+---
+
+# ⚡ Motto
+
+> "Building practical solutions through clean code, creativity, and continuous learning."
