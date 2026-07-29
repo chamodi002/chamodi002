@@ -128,30 +128,33 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 #  GitHub Statistics
 
+<h2 align="center"> GitHub Statistics</h2>
+
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chamodi002&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chamodi002&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi002&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi002&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+#  GitHub Streak
+
+
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamodi002&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=chamodi002&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
 
 #  GitHub Trophies
 
+<h2 align="center"> GitHub Trophies</h2>
+
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chamodi002&theme=tokyonight&row=1&column=6"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=chamodi002&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
