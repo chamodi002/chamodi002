@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chamodi Janendra Rajapaksha
+#  Hi, I'm Chamodi Janendra Rajapaksha
 
 <h3 align="center">
 Software Engineer | Full-Stack Developer | Mobile Application Developer
@@ -30,15 +30,15 @@ Building modern, scalable, and user-focused software solutions through clean arc
 
 ---
 
-# 💫 About Me
+#  About Me
 
-🎓 Software Engineering Graduate with a strong passion for building high-quality software solutions.
+ Software Engineering Graduate with a strong passion for building high-quality software solutions.
 
-💻 Experienced in Full-Stack Web Development, Android Application Development, Database Design, and REST API Development.
+ Experienced in Full-Stack Web Development, Android Application Development, Database Design, and REST API Development.
 
-🚀 Passionate about creating scalable, secure, and user-friendly applications using modern technologies.
+ Passionate about creating scalable, secure, and user-friendly applications using modern technologies.
 
-🌱 Currently expanding my expertise in:
+ Currently expanding my expertise in:
 
 * Artificial Intelligence
 * Machine Learning
@@ -51,9 +51,9 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
-## 💻 Programming Languages
+##  Programming Languages
 
 * Java
 * Python
@@ -65,7 +65,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-## 🌐 Frontend
+##  Frontend
 
 * React
 * Next.js
@@ -76,7 +76,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-## ⚙️ Backend
+##  Backend
 
 * FastAPI
 * Flask
@@ -85,14 +85,14 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-## 📱 Mobile Development
+##  Mobile Development
 
 * Android Development (Java)
 * Firebase
 
 ---
 
-## 🗄️ Databases
+##  Databases
 
 * MongoDB Atlas
 * MySQL
@@ -100,7 +100,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-## ☁️ Tools & Technologies
+##  Tools & Technologies
 
 * Git
 * GitHub
@@ -114,7 +114,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-## 📚 Software Engineering
+##  Software Engineering
 
 * Object-Oriented Programming (OOP)
 * MVC Architecture
@@ -126,7 +126,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-# 📈 GitHub Statistics
+#  GitHub Statistics
 
 <p align="center">
 
@@ -146,7 +146,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <p align="center">
 
@@ -156,9 +156,9 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🏨 Grand Hotel – Hotel Management & Reservation System
+##  Grand Hotel – Hotel Management & Reservation System
 
 **Tech Stack**
 
@@ -177,7 +177,7 @@ Next.js • FastAPI • MongoDB Atlas • Tailwind CSS • Docker
 
 ---
 
-## 🎟️ Artist Ticketing Platform
+##  Artist Ticketing Platform
 
 **Tech Stack**
 
@@ -197,7 +197,7 @@ Next.js • FastAPI • MongoDB Atlas • JWT Authentication • Tailwind CSS �
 
 ---
 
-## 🚦 LankaDrivePrep – AI-Based Driver Education Platform
+##  LankaDrivePrep – AI-Based Driver Education Platform
 
 **Final Year Project**
 
@@ -214,7 +214,7 @@ Java • Python • HTML • CSS • Bootstrap • MySQL
 
 ---
 
-## 🤖 MyAIChatbot
+##  MyAIChatbot
 
 Python • Flask • HTML • CSS • JavaScript
 
@@ -222,7 +222,7 @@ AI-powered chatbot capable of real-time conversations through a responsive web a
 
 ---
 
-## 📱 GovConnect
+##  GovConnect
 
 Java • Android • Firebase
 
@@ -230,7 +230,7 @@ Vehicle Fine Payment Mobile Application with secure fingerprint authentication.
 
 ---
 
-## 🚕 Cab Booking Management System
+##  Cab Booking Management System
 
 Java • HTML • CSS • Bootstrap • MySQL
 
@@ -238,7 +238,7 @@ Database-driven taxi reservation and billing platform.
 
 ---
 
-## 🍽️ Cafe Restaurant Management System
+##  Cafe Restaurant Management System
 
 Java • HTML • CSS • Bootstrap • MySQL
 
@@ -246,7 +246,7 @@ Restaurant reservation and food ordering platform.
 
 ---
 
-## 💊 Pharmacy Management System
+##  Pharmacy Management System
 
 PHP • MySQL • JavaScript
 
@@ -254,7 +254,7 @@ Medicine inventory management, prescription handling, order tracking, and admini
 
 ---
 
-## 🐶 Dog Nutrition Mobile Application
+##  Dog Nutrition Mobile Application
 
 Java • Android Studio
 
@@ -262,7 +262,7 @@ Educational Android application providing dog nutrition guidance.
 
 ---
 
-# 🎓 Education
+#  Education
 
 ## BSc (Hons) Software Engineering (First Class Honours)
 
@@ -287,7 +287,7 @@ Cardiff Metropolitan University
 
 ---
 
-# 🏆 Achievements
+#  Achievements
 
 * Colours Award – Aerobic Gymnastics
 * Bronze Medalist – All-Island Aerobic Gym for Life Challenge
@@ -296,14 +296,14 @@ Cardiff Metropolitan University
 
 ---
 
-# 🌍 Languages
+#  Languages
 
 * English (Fluent)
 * Sinhala (Native)
 
 ---
 
-# 🤝 Soft Skills
+#  Soft Skills
 
 * Leadership
 * Team Collaboration
@@ -316,19 +316,17 @@ Cardiff Metropolitan University
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
-📍 Kurunegala, Sri Lanka
+ Kurunegala, Sri Lanka
 
-📧 **Email:** [chamodirajapaksha178@icloud.com](mailto:chamodirajapaksha178@icloud.com)
+ **LinkedIn:** https://www.linkedin.com/in/chamodi-rajapaksha-75a925333
 
-💼 **LinkedIn:** https://www.linkedin.com/in/chamodi-rajapaksha-75a925333
-
-💻 **GitHub:** https://github.com/chamodi002
+ **GitHub:** https://github.com/chamodi002
 
 ---
 
-# 💭 Quote
+#  Quote
 
 > **"Building practical software solutions through clean code, innovation, and continuous learning."**
 
@@ -336,7 +334,7 @@ Cardiff Metropolitan University
 
 <p align="center">
 
-⭐ Thank you for visiting my GitHub profile!
+ Thank you for visiting my GitHub profile!
 
 Let's build something amazing together.
 
