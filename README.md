@@ -63,7 +63,6 @@ https://github.com/chamodi002
 - MongoDB
 - Firebase Firestore
 - Database Design
-- ER Diagram Design
 
 ##  Tools & Technologies
 
@@ -72,7 +71,6 @@ https://github.com/chamodi002
 - Docker Compose
 - VS Code
 - MySQL Workbench
-- Postman
 - Linux / WSL Environment
 
 ##  Software Engineering Concepts
@@ -84,7 +82,6 @@ https://github.com/chamodi002
 - API Integration
 - Authentication & Authorization
 - JWT Security
-- Agile Development
 - UI/UX Principles
 
 
