@@ -1,4 +1,4 @@
-#  Hi, I'm Chamodi Janendra Rajapaksha
+# 👋 Hi, I'm Chamodi Janendra Rajapaksha
 
 <h3 align="center">
 Software Engineer | Full-Stack Developer | Mobile Application Developer
@@ -30,15 +30,15 @@ Building modern, scalable, and user-focused software solutions through clean arc
 
 ---
 
-#  About Me
+# 💫 About Me
 
- Software Engineering Graduate with a strong passion for building high-quality software solutions.
+Software Engineering Graduate with a strong passion for building high-quality software solutions.
 
- Experienced in Full-Stack Web Development, Android Application Development, Database Design, and REST API Development.
+Experienced in Full-Stack Web Development, Android Application Development, Database Design, and REST API Development.
 
- Passionate about creating scalable, secure, and user-friendly applications using modern technologies.
+Passionate about creating scalable, secure, and user-friendly applications using modern technologies.
 
- Currently expanding my expertise in:
+Currently expanding my expertise in:
 
 * Artificial Intelligence
 * Machine Learning
@@ -51,9 +51,9 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-#  Tech Stack
+# 🛠️ Tech Stack
 
-##  Programming Languages
+## 💻 Programming Languages
 
 * Java
 * Python
@@ -65,7 +65,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-##  Frontend
+## 🌐 Frontend
 
 * React
 * Next.js
@@ -76,7 +76,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-##  Backend
+## ⚙️ Backend
 
 * FastAPI
 * Flask
@@ -85,14 +85,14 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-##  Mobile Development
+## 📱 Mobile Development
 
 * Android Development (Java)
 * Firebase
 
 ---
 
-##  Databases
+## 🗄️ Databases
 
 * MongoDB Atlas
 * MySQL
@@ -100,7 +100,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-##  Tools & Technologies
+## ☁️ Tools & Technologies
 
 * Git
 * GitHub
@@ -114,7 +114,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-##  Software Engineering
+## 📚 Software Engineering
 
 * Object-Oriented Programming (OOP)
 * MVC Architecture
@@ -126,22 +126,19 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ---
 
-#  GitHub Statistics
-
-<h2 align="center">📊 GitHub Statistics</h2>
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamodi002&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi002&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=chamodi002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi002&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
+
 </p>
 
 ---
 
-#  GitHub Streak
-
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -149,23 +146,27 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 </p>
 
-#  GitHub Trophies
+---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chamodi002&theme=tokyonight&no-frame=true&margin-w=15" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=chamodi002&theme=tokyonight&no-frame=true&no-bg=true&column=6"/>
+
 </p>
 
 ---
 
-#  Featured Projects
+# 🚀 Featured Projects
 
-##  Grand Hotel – Hotel Management & Reservation System
+## 🏨 Grand Hotel – Hotel Management & Reservation System
 
 **Tech Stack**
 
 Next.js • FastAPI • MongoDB Atlas • Tailwind CSS • Docker
+
+A full-stack hotel management platform designed to manage hotel reservations and administrative operations.
 
 ### Features
 
@@ -180,11 +181,13 @@ Next.js • FastAPI • MongoDB Atlas • Tailwind CSS • Docker
 
 ---
 
-##  Artist Ticketing Platform
+## 🎟️ Artist Ticketing Platform
 
 **Tech Stack**
 
 Next.js • FastAPI • MongoDB Atlas • JWT Authentication • Tailwind CSS • Docker
+
+A complete event and ticket booking platform designed for artists and customers.
 
 ### Features
 
@@ -200,7 +203,7 @@ Next.js • FastAPI • MongoDB Atlas • JWT Authentication • Tailwind CSS �
 
 ---
 
-##  LankaDrivePrep – AI-Based Driver Education Platform
+## 🚦 LankaDrivePrep – AI-Based Driver Education Platform
 
 **Final Year Project**
 
@@ -208,137 +211,11 @@ Next.js • FastAPI • MongoDB Atlas • JWT Authentication • Tailwind CSS �
 
 Java • Python • HTML • CSS • Bootstrap • MySQL
 
+A digital learning platform developed to modernize driver education in Sri Lanka.
+
 ### Highlights
 
 * Machine Learning Traffic Sign Recognition
 * Bilingual Learning Platform
 * Gamification
 * Interactive Learning Experience
-
----
-
-##  MyAIChatbot
-
-Python • Flask • HTML • CSS • JavaScript
-
-AI-powered chatbot capable of real-time conversations through a responsive web application.
-
----
-
-##  GovConnect
-
-Java • Android • Firebase
-
-Vehicle Fine Payment Mobile Application with secure fingerprint authentication.
-
----
-
-##  Cab Booking Management System
-
-Java • HTML • CSS • Bootstrap • MySQL
-
-Database-driven taxi reservation and billing platform.
-
----
-
-##  Cafe Restaurant Management System
-
-Java • HTML • CSS • Bootstrap • MySQL
-
-Restaurant reservation and food ordering platform.
-
----
-
-##  Pharmacy Management System
-
-PHP • MySQL • JavaScript
-
-Medicine inventory management, prescription handling, order tracking, and administrative dashboard.
-
----
-
-##  Dog Nutrition Mobile Application
-
-Java • Android Studio
-
-Educational Android application providing dog nutrition guidance.
-
----
-
-#  Education
-
-## BSc (Hons) Software Engineering (First Class Honours)
-
-Cardiff Metropolitan University
-
-*(via ICBT Campus)*
-
----
-
-## Higher Diploma in Computing & Software Engineering (Merit Pass)
-
-Cardiff Metropolitan University
-
-*(via ICBT Campus)*
-
----
-
-## Maliyadeva Balika Vidyalaya
-
-* GCE Advanced Level (Commerce Stream)
-* GCE Ordinary Level
-
----
-
-#  Achievements
-
-* Colours Award – Aerobic Gymnastics
-* Bronze Medalist – All-Island Aerobic Gym for Life Challenge
-* 1st Runner-Up – Sri Lanka Schools Aerobic Gym Competition
-* Provincial Level Athlete – Aerobic Gymnastics
-
----
-
-#  Languages
-
-* English (Fluent)
-* Sinhala (Native)
-
----
-
-#  Soft Skills
-
-* Leadership
-* Team Collaboration
-* Communication
-* Critical Thinking
-* Problem Solving
-* Time Management
-* Creativity
-* Adaptability
-
----
-
-#  Connect With Me
-
- Kurunegala, Sri Lanka
-
- **LinkedIn:** https://www.linkedin.com/in/chamodi-rajapaksha-75a925333
-
- **GitHub:** https://github.com/chamodi002
-
----
-
-#  Quote
-
-> **"Building practical software solutions through clean code, innovation, and continuous learning."**
-
----
-
-<p align="center">
-
- Thank you for visiting my GitHub profile!
-
-Let's build something amazing together.
-
-</p>
