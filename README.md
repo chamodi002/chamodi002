@@ -1,6 +1,6 @@
-#  Hi, I'm Chamodi Janendra Rajapaksha
+#   I'm Chamodi Janendra Rajapaksha
 
-##  Software Engineer | Full-Stack Developer | Mobile Application Developer
+##  Software Engineer | Full-Stack Developer 
 
 I am a Software Engineering graduate with a strong foundation in **full-stack web development, mobile application development, database management, and software engineering principles**.
 
