@@ -1,4 +1,4 @@
-<h1 align="center">, I'm Chamodi Janendra Rajapaksha</h1>
+<h1 align="center">I'm Chamodi Janendra Rajapaksha</h1>
 
 <h3 align="center">
 Software Engineer | Full-Stack Developer | Mobile Application Developer
